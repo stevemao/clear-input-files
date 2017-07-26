@@ -1,0 +1,26 @@
+{
+  "name": "clear-input-files",
+  "version": "0.0.0",
+  "description": "Clear input files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevemao/clear-input-files.git"
+  },
+  "keywords": [
+    "clear",
+    "input",
+    "files",
+    "upload",
+    "uploader"
+  ],
+  "author": "Steve Mao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevemao/clear-input-files/issues"
+  },
+  "homepage": "https://github.com/stevemao/clear-input-files#readme"
+}
